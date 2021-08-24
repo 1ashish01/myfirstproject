@@ -1,0 +1,11 @@
+package myfirstproject;
+
+public class Squarerootfunction {
+
+	public static void main(String[] args) {
+		int a = 625;
+		System.out.println("Square root of "+ a +" is :"+Math.sqrt(a));
+		}
+	
+
+}
